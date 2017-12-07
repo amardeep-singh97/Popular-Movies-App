@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="heading_release_date">Release Date</string>
+    <string name="heading_vote_average">Vote Average</string>
+    <string name="no_release_date_found">No release date found</string>
+    <string name="no_summary_found">No summary was found</string>
+    <string name="example_original_title">Movie Name</string>
+    <string name="example_release_date">08–31–2015</string>
+    <string name="example_vote_average">8.2/10</string>
+    <string name="example_overview">A green, disconcerted, man takes on the mafia in underground North Korea to save his ferret. He\'ll find a lot of challenges, horror and romance on his journey. Who knows? Maybe Kim Jung-un makes a cameo appearance?</string>
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="pref_sort_vote_avg_desc_key">SORT_VOTE_AVERAGE_DESC</string>
+    <string name="pref_sort_pop_desc_key">SORT_POPULARITY_DESC</string>
+    <string name="key_themoviedb">http://api.themoviedb.org/3/search/movie?api_key=e938f2f641f710c359a8072a3613632b</string>
+    <string name="tmdb_sort_pop_desc">popular</string>
+    <string name="tmdb_sort_vote_avg_desc">top_rated</string>
+    <string name="description_movie_poster">Contains poster of movie</string>
+    <string name="error_need_internet">This application needs Internet connection to function.</string>
+    <string name="trailer">Trailer</string>
+    <string name="Review">Reviews</string>
+    <string name="no_review">Sorry! No Reviews</string>
+    <string name="no_trailer">Sorry! No Trailer</string>
+    <string name="fav">Fav</string>
+    <string name="no_fav_list">No Favourites</string>
+</resources>
